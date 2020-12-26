@@ -1,0 +1,144 @@
+Timestamp,Which year are you in?,How are you feeling right now?,"On a scale of 1-100, how would you express this feeling?",Gender,Age,Your location ?,Relationship status,Are you happy with your financial state?,How much have you succeeded to cope up with the environment of your educational institution?,Understanding with your family members?,Are you feeling pressure in your study or work right now?,Are you satisfied with your academic result?,Are you happy with your living place?,Who supports you when you are not succeeding in your academic life?,Have you used any social media within the last 6 hours?,Do you have inferiority complex? ,Are you satisfied with your meal today?,Are you feeling sick/health issues today?,"Have you done any recreational activity (sports, gaming, hobby etc.) today?",How long did you sleep last night?(in hours)
+12/12/2020 5:54:51,1st year,Very good,85,Male,21,Home,In a relationship,No,3,Good,No,Yes,Yes,Family,Yes,Maybe,Yes,No,No,4
+,1st year,Very bad,40,Male,21,Home,It's complicated,Yes,1,Good,Yes,Not applicable,No,Friends,Yes,Yes,No,Yes,No,6
+,1st year,Bad,40,Male,21,Hall-Mess,Single,Yes,2,Good,Yes,Not applicable,No,Family,Yes,Yes,No,Yes,No,5
+,1st year,Bad,60,Male,21,Hall-Mess,It's complicated,Yes,1,Good,Yes,Not applicable,No,Family,Yes,Yes,No,Yes,No,5
+,1st year,Normal,60,Male,21,Department,In a relationship,Yes,2,Good,Yes,Not applicable,No,Friends,Yes,Yes,No,Yes,No,4
+,1st year,Very bad,20,Male,21,Home,It's complicated,Yes,2,Good,Yes,Not applicable,No,Family,Yes,Yes,No,Yes,No,4
+,1st year,Bad,40,Male,21,Home,Single,Yes,1,Good,Yes,Not applicable,No,Family,Yes,Yes,No,Yes,No,6
+,1st year,Very bad,60,Male,21,Home,In a relationship,Yes,2,Good,Yes,Not applicable,No,Friends,Yes,Yes,No,No,No,7
+,1st year,Normal,20,Male,21,Department,In a relationship,Yes,2,Good,Yes,Not applicable,No,Family,Yes,Yes,No,No,No,5
+,1st year,Normal,40,Male,21,Home,Single,Yes,1,Good,Yes,Not applicable,No,Family,Yes,Yes,No,Yes,No,7
+,1st year,Very bad,20,Male,21,Hall-Mess,It's complicated,Yes,2,Good,Yes,Not applicable,No,Family,Yes,Yes,No,Yes,No,5
+,1st year,Very bad,60,Male,21,Department,It's complicated,Yes,2,Good,Yes,Not applicable,No,Family,Yes,Yes,No,Yes,No,4
+,1st year,Normal,40,Male,21,Hall-Mess,It's complicated,Yes,1,Good,Yes,Not applicable,No,Family,Yes,Yes,No,Yes,No,4
+,1st year,Bad,60,Male,21,Hall-Mess,It's complicated,Yes,1,Good,Yes,Not applicable,No,Family,Yes,Yes,No,No,No,6
+,1st year,Very bad,60,Male,21,Hall-Mess,In a relationship,Yes,1,Good,Yes,Not applicable,No,Family,Yes,Yes,No,Yes,No,4
+,1st year,Very bad,60,Male,21,Department,Single,Yes,2,Good,Yes,Not applicable,No,Friends,Yes,Yes,No,No,No,6
+,1st year,Bad,20,Male,21,Department,It's complicated,Yes,1,Good,Yes,Not applicable,No,Friends,Yes,Yes,No,No,No,7
+,1st year,Normal,60,Male,21,Home,Single,Yes,1,Good,Yes,Not applicable,No,Family,Yes,Yes,No,No,No,7
+,1st year,Bad,20,Male,21,Department,Single,Yes,1,Good,Yes,Not applicable,No,Friends,Yes,Yes,No,No,No,7
+,1st year,Bad,20,Male,21,Hall-Mess,It's complicated,Yes,1,Good,Yes,Not applicable,No,Friends,Yes,Yes,No,No,No,5
+,1st year,Normal,20,Male,21,Department,In a relationship,Yes,2,Good,Yes,Not applicable,No,Friends,Yes,Yes,No,Yes,No,4
+,1st year,Normal,40,Male,21,Home,Single,Yes,2,Good,Yes,Not applicable,No,Family,Yes,Yes,No,No,No,6
+,1st year,Very bad,40,Male,21,Home,It's complicated,Yes,1,Good,Yes,Not applicable,No,Friends,Yes,Yes,No,Yes,No,6
+,1st year,Normal,20,Male,21,Hall-Mess,It's complicated,Yes,2,Good,Yes,Not applicable,No,Friends,Yes,Yes,No,No,No,5
+,1st year,Normal,20,Male,21,Department,In a relationship,Yes,1,Good,Yes,Not applicable,No,Friends,Yes,Yes,No,Yes,No,5
+,1st year,Very good,70,Male,22,Department,In a relationship,Yes,4,Normal,Yes,Yes,No,Friends,Yes,Maybe,No,No,No,10
+,1st year,Very good,80,Male,22,Department,In a relationship,Yes,4,Normal,Yes,Yes,No,Friends,Yes,Maybe,No,No,Yes,8
+,1st year,Normal,85,Male,22,Hall-Mess,In a relationship,Yes,4,Normal,Yes,Yes,No,Family,Yes,Maybe,Neutral,No,No,10
+,1st year,Good,80,Male,22,Department,In a relationship,Yes,4,Normal,Yes,Yes,No,Family,Yes,Maybe,No,Yes,No,8
+,1st year,Good,65,Male,22,Hall-Mess,In a relationship,Yes,4,Normal,Yes,Yes,No,Friends,Yes,Maybe,Neutral,No,No,7
+,1st year,Good,95,Male,22,Department,In a relationship,Yes,4,Normal,Yes,Yes,No,Friends,Yes,Maybe,No,Yes,No,10
+,1st year,Normal,85,Male,22,Department,In a relationship,Yes,4,Normal,Yes,Yes,No,Friends,Yes,Maybe,Neutral,No,Yes,7
+,1st year,Good,70,Male,22,Department,In a relationship,Yes,4,Normal,Yes,Yes,No,Family,Yes,Maybe,Neutral,Yes,No,11
+,1st year,Very good,80,Male,22,Department,In a relationship,Yes,4,Normal,Yes,Yes,No,Family,Yes,Maybe,Neutral,No,No,9
+,1st year,Good,70,Male,22,Hall-Mess,In a relationship,Yes,4,Normal,Yes,Yes,No,Friends,Yes,Maybe,No,No,Yes,11
+,1st year,Normal,70,Male,22,Hall-Mess,In a relationship,Yes,4,Normal,Yes,Yes,No,Family,Yes,Maybe,Neutral,Yes,Yes,9
+,1st year,Good,65,Male,22,Department,In a relationship,Yes,4,Normal,Yes,Yes,No,Family,Yes,Maybe,Neutral,No,Yes,7
+,1st year,Normal,65,Male,22,Department,In a relationship,Yes,4,Normal,Yes,Yes,No,Family,Yes,Maybe,No,Yes,Yes,9
+,1st year,Normal,95,Male,22,Department,In a relationship,Yes,4,Normal,Yes,Yes,No,Friends,Yes,Maybe,Neutral,No,Yes,11
+,1st year,Normal,65,Male,22,Department,In a relationship,Yes,4,Normal,Yes,Yes,No,Family,Yes,Maybe,Neutral,No,No,10
+,2nd year,Very good,95,Male,22,Department,In a relationship,Yes,3,Normal,Yes,Not applicable,No,Family,Yes,Maybe,No,Yes,Yes,7
+,2nd year,Good,80,Male,22,Home,In a relationship,Yes,3,Good,Yes,Not applicable,No,Family,Yes,Maybe,Neutral,No,Yes,11
+,2nd year,Good,85,Male,22,Home,In a relationship,Yes,3,Good,Yes,Not applicable,No,Family,Yes,Maybe,Neutral,Yes,Yes,9
+,2nd year,Good,95,Male,22,Department,In a relationship,Yes,3,Normal,Yes,Not applicable,No,Friends,Yes,Maybe,No,No,Yes,9
+,2nd year,Very good,70,Male,22,Home,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Friends,Yes,Maybe,Neutral,Yes,Yes,11
+,2nd year,Very good,80,Male,22,Home,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Family,Yes,Maybe,No,Yes,Yes,11
+,2nd year,Very good,95,Male,22,Hall-Mess,In a relationship,Yes,3,Normal,Yes,Not applicable,No,Friends,Yes,Maybe,Neutral,Yes,Yes,9
+,2nd year,Very good,85,Male,22,Home,In a relationship,Yes,3,Normal,Yes,Not applicable,No,Friends,Yes,Maybe,No,Yes,Yes,11
+,2nd year,Good,85,Male,22,Department,In a relationship,Yes,3,Normal,Yes,Not applicable,No,Friends,Yes,Maybe,Neutral,No,Yes,8
+,2nd year,Good,70,Male,22,Home,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Family,Yes,Maybe,Neutral,No,Yes,8
+,2nd year,Very good,95,Male,22,Home,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Family,Yes,Maybe,No,No,Yes,7
+,2nd year,Good,70,Male,22,Hall-Mess,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Friends,Yes,Maybe,No,No,Yes,10
+,2nd year,Very good,70,Male,22,Hall-Mess,In a relationship,Yes,3,Good,Yes,Not applicable,Not applicable,Friends,Yes,Maybe,No,No,Yes,11
+,2nd year,Very good,80,Male,22,Department,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Friends,Yes,Maybe,No,Yes,Yes,10
+,2nd year,Very good,70,Male,22,Department,In a relationship,Yes,3,Good,Yes,Not applicable,Not applicable,Friends,Yes,Maybe,Neutral,Yes,Yes,7
+,2nd year,Very good,70,Male,22,Hall-Mess,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Friends,Yes,Maybe,Neutral,Yes,Yes,7
+,2nd year,Good,95,Male,22,Home,In a relationship,Yes,3,Normal,Yes,Not applicable,No,Family,Yes,Maybe,Neutral,Yes,Yes,9
+,2nd year,Good,85,Male,22,Department,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Friends,Yes,Maybe,Neutral,Yes,Yes,11
+,2nd year,Very good,70,Male,22,Hall-Mess,In a relationship,Yes,3,Good,Yes,Not applicable,Not applicable,Family,Yes,Maybe,Neutral,No,Yes,11
+,2nd year,Very good,70,Male,22,Hall-Mess,In a relationship,Yes,3,Good,Yes,Not applicable,Not applicable,Friends,Yes,Maybe,Neutral,No,Yes,11
+,2nd year,Very good,80,Male,22,Home,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Family,Yes,Maybe,No,Yes,Yes,9
+,2nd year,Very good,80,Male,22,Hall-Mess,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Family,Yes,Maybe,No,Yes,Yes,11
+,2nd year,Very good,95,Male,22,Hall-Mess,In a relationship,Yes,3,Good,Yes,Not applicable,No,Friends,Yes,Maybe,No,Yes,Yes,11
+,2nd year,Very good,85,Male,22,Department,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Family,Yes,Maybe,Neutral,No,Yes,8
+,2nd year,Very good,80,Male,22,Hall-Mess,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Family,Yes,Maybe,Neutral,No,Yes,10
+,2nd year,Good,70,Male,22,Department,In a relationship,Yes,3,Good,Yes,Not applicable,No,Family,Yes,Maybe,Neutral,No,Yes,10
+,2nd year,Very good,85,Male,22,Department,In a relationship,Yes,3,Good,Yes,Not applicable,No,Friends,Yes,Maybe,Neutral,Yes,Yes,10
+,2nd year,Very good,95,Male,22,Department,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Friends,Yes,Maybe,Neutral,No,Yes,9
+,2nd year,Very good,95,Male,22,Home,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Family,Yes,Maybe,No,No,Yes,8
+,2nd year,Very good,95,Male,22,Home,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Family,Yes,Maybe,No,Yes,Yes,8
+,2nd year,Very good,80,Male,22,Home,In a relationship,Yes,3,Good,Yes,Not applicable,No,Family,Yes,Maybe,No,Yes,Yes,11
+,2nd year,Very good,80,Male,22,Home,In a relationship,Yes,3,Normal,Yes,Not applicable,No,Friends,Yes,Maybe,No,No,Yes,7
+,2nd year,Very good,70,Male,22,Home,In a relationship,Yes,3,Good,Yes,Not applicable,No,Family,Yes,Maybe,Neutral,No,Yes,7
+,2nd year,Good,70,Male,22,Home,In a relationship,Yes,3,Normal,Yes,Not applicable,No,Family,Yes,Maybe,No,Yes,Yes,9
+,2nd year,Very good,95,Male,22,Department,In a relationship,Yes,3,Good,Yes,Not applicable,No,Friends,Yes,Maybe,Neutral,Yes,Yes,9
+,2nd year,Good,85,Male,22,Department,In a relationship,Yes,3,Good,Yes,Not applicable,No,Family,Yes,Maybe,Neutral,No,Yes,7
+,2nd year,Good,70,Male,22,Hall-Mess,In a relationship,Yes,3,Good,Yes,Not applicable,Not applicable,Family,Yes,Maybe,No,Yes,Yes,8
+,2nd year,Good,70,Male,22,Home,In a relationship,Yes,3,Good,Yes,Not applicable,Not applicable,Family,Yes,Maybe,No,Yes,Yes,8
+,2nd year,Very good,70,Male,22,Hall-Mess,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Family,Yes,Maybe,No,No,Yes,7
+,2nd year,Good,95,Male,22,Hall-Mess,In a relationship,Yes,3,Normal,Yes,Not applicable,No,Family,Yes,Maybe,No,Yes,Yes,8
+,2nd year,Very good,80,Male,22,Department,In a relationship,Yes,3,Good,Yes,Not applicable,No,Friends,Yes,Maybe,Neutral,No,Yes,10
+,2nd year,Very good,80,Male,22,Department,In a relationship,Yes,3,Normal,Yes,Not applicable,No,Friends,Yes,Maybe,Neutral,Yes,Yes,11
+,2nd year,Good,80,Male,22,Hall-Mess,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Family,Yes,Maybe,No,No,Yes,11
+,2nd year,Good,95,Male,22,Hall-Mess,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Friends,Yes,Maybe,Neutral,Yes,Yes,7
+,2nd year,Very good,85,Male,22,Home,In a relationship,Yes,3,Normal,Yes,Not applicable,No,Family,Yes,Maybe,Neutral,No,Yes,11
+,2nd year,Good,70,Male,22,Department,In a relationship,Yes,3,Good,Yes,Not applicable,Not applicable,Friends,Yes,Maybe,No,Yes,Yes,10
+,2nd year,Very good,85,Male,22,Department,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Family,Yes,Maybe,No,Yes,Yes,9
+,2nd year,Very good,95,Male,22,Department,In a relationship,Yes,3,Good,Yes,Not applicable,Not applicable,Family,Yes,Maybe,Neutral,No,Yes,7
+,2nd year,Very good,85,Male,22,Hall-Mess,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Family,Yes,Maybe,Neutral,Yes,Yes,10
+,2nd year,Very good,85,Male,22,Hall-Mess,In a relationship,Yes,3,Good,Yes,Not applicable,Not applicable,Friends,Yes,Maybe,No,Yes,Yes,10
+,2nd year,Very good,80,Male,22,Department,In a relationship,Yes,3,Good,Yes,Not applicable,No,Family,Yes,Maybe,No,Yes,Yes,8
+,2nd year,Very good,70,Male,22,Home,In a relationship,Yes,3,Good,Yes,Not applicable,No,Family,Yes,Maybe,Neutral,Yes,Yes,8
+,2nd year,Good,70,Male,22,Hall-Mess,In a relationship,Yes,3,Good,Yes,Not applicable,Not applicable,Family,Yes,Maybe,Neutral,No,Yes,9
+,2nd year,Good,80,Male,22,Department,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Friends,Yes,Maybe,Neutral,Yes,Yes,10
+,2nd year,Good,70,Male,22,Department,In a relationship,Yes,3,Good,Yes,Not applicable,Not applicable,Family,Yes,Maybe,Neutral,Yes,Yes,8
+,2nd year,Good,95,Male,22,Department,In a relationship,Yes,3,Good,Yes,Not applicable,Not applicable,Family,Yes,Maybe,No,Yes,Yes,8
+,2nd year,Very good,70,Male,22,Home,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Family,Yes,Maybe,No,No,Yes,11
+,2nd year,Good,85,Male,22,Home,In a relationship,Yes,3,Good,Yes,Not applicable,Not applicable,Family,Yes,Maybe,No,Yes,Yes,9
+,2nd year,Good,80,Male,22,Department,In a relationship,Yes,3,Good,Yes,Not applicable,No,Family,Yes,Maybe,Neutral,Yes,Yes,9
+,2nd year,Very good,70,Male,22,Home,In a relationship,Yes,3,Normal,Yes,Not applicable,No,Family,Yes,Maybe,No,No,Yes,7
+,2nd year,Good,85,Male,22,Hall-Mess,In a relationship,Yes,3,Normal,Yes,Not applicable,No,Family,Yes,Maybe,Neutral,No,Yes,10
+,2nd year,Very good,85,Male,22,Hall-Mess,In a relationship,Yes,3,Good,Yes,Not applicable,No,Family,Yes,Maybe,Neutral,Yes,Yes,7
+,2nd year,Very good,85,Male,22,Hall-Mess,In a relationship,Yes,3,Normal,Yes,Not applicable,Not applicable,Friends,Yes,Maybe,Neutral,Yes,Yes,7
+,2nd year,Good,80,Male,22,Hall-Mess,In a relationship,Yes,3,Good,Yes,Not applicable,No,Family,Yes,Maybe,Neutral,No,Yes,11
+,2nd year,Good,85,Male,22,Hall-Mess,In a relationship,Yes,3,Normal,Yes,Not applicable,No,Friends,Yes,Maybe,No,No,Yes,9
+,2nd year,Very good,80,Male,22,Department,In a relationship,Yes,3,Good,Yes,Not applicable,No,Family,Yes,Maybe,Neutral,Yes,Yes,7
+,3rd year,Very good,80,Male,23,Hall-Mess,In a relationship,Yes,3,Good,No,Yes,Yes,Friends,Yes,Yes,Yes,No,Yes,3
+,3rd year,Good,95,Male,23,Department,In a relationship,Yes,3,Good,No,Yes,Yes,Family,Yes,Yes,Neutral,Yes,No,4
+,3rd year,Very good,80,Male,23,Playground,In a relationship,Yes,3,Good,No,Yes,Yes,Family,Yes,Yes,Yes,No,No,5
+,3rd year,Good,60,Male,23,Playground,In a relationship,Yes,3,Good,No,Yes,Yes,Friends,Yes,Yes,Neutral,Yes,No,4
+,3rd year,Normal,95,Male,23,Playground,In a relationship,Yes,3,Good,No,Yes,Yes,Friends,Yes,Yes,Yes,Yes,No,4
+,3rd year,Very good,80,Male,23,Department,In a relationship,Yes,3,Good,No,Yes,Yes,Friends,Yes,Yes,Neutral,No,No,5
+,3rd year,Very good,60,Male,23,Department,In a relationship,Yes,4,Good,No,Yes,Yes,Friends,Yes,Yes,Neutral,No,Yes,4
+,3rd year,Good,95,Male,23,Hall-Mess,In a relationship,Yes,4,Good,No,Yes,Yes,Friends,Yes,Yes,Neutral,No,No,3
+,3rd year,Very good,95,Male,23,Playground,In a relationship,Yes,3,Good,No,Yes,Yes,Family,Yes,Yes,Neutral,Yes,No,3
+,3rd year,Normal,60,Male,23,Department,In a relationship,Yes,4,Good,No,Yes,Yes,Friends,Yes,Yes,Neutral,No,Yes,4
+,3rd year,Good,60,Male,23,Department,In a relationship,Yes,3,Good,No,Yes,Yes,Family,Yes,Yes,Neutral,Yes,Yes,3
+,3rd year,Very good,60,Male,23,Playground,In a relationship,Yes,3,Good,No,Yes,Yes,Family,Yes,Yes,Yes,No,Yes,5
+,3rd year,Normal,95,Male,23,Hall-Mess,In a relationship,Yes,3,Good,No,Yes,Yes,Friends,Yes,Yes,Neutral,Yes,Yes,5
+,3rd year,Normal,60,Male,23,Hall-Mess,In a relationship,Yes,4,Good,No,Yes,Yes,Family,Yes,Yes,Yes,Yes,No,6
+,3rd year,Very good,95,Male,23,Hall-Mess,In a relationship,Yes,4,Good,No,Yes,Yes,Friends,Yes,Yes,Yes,No,No,6
+,3rd year,Normal,95,Male,23,Playground,In a relationship,Yes,3,Good,No,Yes,Yes,Friends,Yes,Yes,Yes,Yes,Yes,6
+,3rd year,Good,95,Male,23,Playground,In a relationship,Yes,4,Good,No,Yes,Yes,Family,Yes,Yes,Yes,Yes,Yes,4
+,3rd year,Good,80,Male,23,Department,In a relationship,Yes,3,Good,No,Yes,Yes,Friends,Yes,Yes,Yes,No,No,5
+,3rd year,Normal,95,Male,23,Department,In a relationship,Yes,4,Good,No,Yes,Yes,Friends,Yes,Yes,Yes,No,Yes,4
+,3rd year,Normal,95,Male,23,Department,In a relationship,Yes,4,Good,No,Yes,Yes,Family,Yes,Yes,Yes,Yes,No,5
+,3rd year,Very good,95,Male,23,Hall-Mess,In a relationship,Yes,3,Good,No,Yes,Yes,Family,Yes,Yes,Neutral,Yes,No,4
+,3rd year,Good,80,Male,23,Hall-Mess,In a relationship,Yes,3,Good,No,Yes,Yes,Friends,Yes,Yes,Neutral,Yes,No,4
+,3rd year,Good,95,Male,23,Hall-Mess,In a relationship,Yes,4,Good,No,Yes,Yes,Friends,Yes,Yes,Yes,Yes,No,5
+,3rd year,Very good,95,Male,23,Department,In a relationship,Yes,3,Good,No,Yes,Yes,Friends,Yes,Yes,Neutral,No,No,5
+,3rd year,Normal,80,Male,23,Department,In a relationship,Yes,3,Good,No,Yes,Yes,Friends,Yes,Yes,Neutral,Yes,Yes,4
+,3rd year,Very good,80,Male,23,Playground,In a relationship,Yes,4,Good,No,Yes,Yes,Family,Yes,Yes,Yes,Yes,No,6
+,3rd year,Good,80,Male,23,Playground,In a relationship,Yes,4,Good,No,Yes,Yes,Family,Yes,Yes,Yes,Yes,No,3
+,3rd year,Normal,95,Male,23,Playground,In a relationship,Yes,4,Good,No,Yes,Yes,Friends,Yes,Yes,Yes,Yes,Yes,4
+,3rd year,Normal,60,Male,23,Playground,In a relationship,Yes,4,Good,No,Yes,Yes,Family,Yes,Yes,Yes,Yes,Yes,4
+,3rd year,Very good,95,Male,23,Playground,In a relationship,Yes,3,Good,No,Yes,Yes,Family,Yes,Yes,Neutral,Yes,Yes,5
+,3rd year,Very good,60,Male,23,Playground,In a relationship,Yes,4,Good,No,Yes,Yes,Family,Yes,Yes,Neutral,No,No,3
+,3rd year,Very good,60,Male,23,Hall-Mess,In a relationship,Yes,3,Good,No,Yes,Yes,Family,Yes,Yes,Neutral,No,Yes,5
+,3rd year,Good,80,Male,23,Hall-Mess,In a relationship,Yes,3,Good,No,Yes,Yes,Friends,Yes,Yes,Yes,Yes,Yes,5
+,3rd year,Normal,95,Male,23,Playground,In a relationship,Yes,3,Good,No,Yes,Yes,Family,Yes,Yes,Neutral,Yes,Yes,3
+,3rd year,Very good,80,Male,23,Playground,In a relationship,Yes,3,Good,No,Yes,Yes,Family,Yes,Yes,Neutral,No,No,3
+,3rd year,Normal,60,Male,23,Hall-Mess,In a relationship,Yes,3,Good,No,Yes,Yes,Friends,Yes,Yes,Neutral,No,No,6
+,3rd year,Good,95,Male,23,Hall-Mess,In a relationship,Yes,3,Good,No,Yes,Yes,Family,Yes,Yes,Neutral,Yes,Yes,3
